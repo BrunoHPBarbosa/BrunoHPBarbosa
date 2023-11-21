@@ -64,7 +64,8 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
     />
   </a>
 </p>
-![SdxZ](https://github.com/BrunoHPBarbosa/BrunoHPBarbosa/blob/main/9f31d09d-fd15-41b9-8233-c2058cec52ef.gif)
+
+![SdxZ (1)](https://github.com/BrunoHPBarbosa/BrunoHPBarbosa/assets/141725324/b2e3ce10-d446-4300-9718-8373675d31ea)
 
 
 
