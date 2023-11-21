@@ -16,16 +16,9 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 
 <p align="left">
 
-
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
 <p align="left">
   💼 tools: Android studio /Figma
 </p>
-
-
 
 
 <p align="left">
@@ -33,8 +26,10 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=brunolito111@gmail.com" alt="Gmail"/></a>
+  🦄 Email: brunolito111@gmail.com
+</p>
+
+<p align="left">
 
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-barbosa-08144b287" alt="LinkedIn"/></a>
@@ -69,5 +64,8 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
     />
   </a>
 </p>
+![SdxZ](https://github.com/BrunoHPBarbosa/BrunoHPBarbosa/blob/main/9f31d09d-fd15-41b9-8233-c2058cec52ef.gif)
 
+
+![alt text](SdxZ)
 
