@@ -74,4 +74,3 @@ name: Generate Datas
 </p>
 
 
-![snake animation](https://github.com/<BrunoHPbarbosa>/<BrunoHPBarbosa>/blob/output/github-contribution-grid-snake2.svg)
